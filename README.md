@@ -1,7 +1,7 @@
 README - APLIKASI KASIR 
-==================================================
+
 DESKRIPSI APLIKASI
-==================================================
+==========================
 
 Aplikasi Kasir adalah aplikasi desktop berbasis Java yang dibuat untuk membantu proses transaksi penjualan barang pada sebuah toko modern.
 
@@ -15,8 +15,7 @@ Project ini dibuat dengan menerapkan konsep Object Oriented Programming (OOP), y
 
 Aplikasi ini dibuat dengan menggunakan Java dan dijalankan melalui NetBeans.
 
-==================================================
-               FITUR APLIKASI
+FITUR APLIKASI
 ==================================================
 
 Fitur yang terdapat pada aplikasi ini berupa:
@@ -33,7 +32,7 @@ Fitur yang terdapat pada aplikasi ini berupa:
 10. Penyimpanan data sederhana menggunakan ArrayList
 11. Tampilan desktop menggunakan Java Swing
 
-==================================================
+
 TAMPILAN MENU PADA APLIKASI
 ==================================================
 
@@ -48,7 +47,7 @@ Aplikasi ini memiliki beberapa tab utama, yaitu:
 3. Struk
    Digunakan untuk menampilkan hasil transaksi atau struk pembayaran.
 
-==================================================
+
 PENERAPAN PADA OOP
 ==================================================
 
@@ -113,7 +112,7 @@ Contoh:
 
 Dengan begitu, method yang sama dapat menghasilkan perilaku yang berbeda sesuai dengan objek yang digunakan.
 
-==================================================
+
 STRUKTUR CLASS
 ==================================================
 
@@ -140,7 +139,7 @@ Berikut adalah contoh struktur class yang digunakan dalam aplikasi:
 7. Main.java / KasirApp.java
    Class utama untuk menjalankan aplikasi.
 
-==================================================
+
 CONTOH DATA BARANG
 ==================================================
 
@@ -170,7 +169,7 @@ Kategori : Minuman
 Harga : Rp6.000
 Stok  : 40
 
-==================================================
+
 CARA MENJALANKAN APLIKASI INI
 ==================================================
 
@@ -185,7 +184,7 @@ CARA MENJALANKAN APLIKASI INI
 9. Pilih Run File.
 10. Aplikasi kasir akan terbuka.
 
-==================================================
+
 CARA MENGGUNAKAN APLIKASI INI
 ==================================================
 
@@ -208,7 +207,7 @@ CARA MENGGUNAKAN APLIKASI INI
 12. Sistem akan menampilkan total pembayaran.
 13. Buka tab Struk untuk melihat bukti pembayaran.
 
-==================================================
+
 KETENTUAN DISKON YANG BERLAKU
 ==================================================
 
@@ -230,7 +229,7 @@ Harga Minuman : Rp6.000
 Diskon 5%     : Rp300
 Total Bayar   : Rp5.700
 
-==================================================
+
 PENYIMPANAN DATA
 ==================================================
 
@@ -249,7 +248,6 @@ Kelebihan penggunaan ArrayList:
 3. Dapat menyimpan banyak objek barang.
 4. Sesuai dengan materi dasar Java OOP.
 
-==================================================
 ALAT DAN BAHAN-BAHAN
 ==================================================
 
@@ -262,13 +260,11 @@ Alat yang digunakan untuk membuat aplikasi ini:
 5. Koneksi Internet
 6. Akun GitHub
 
-==================================================
 HASIL PROJECT
 ==================================================
 Hasilya
 <img width="1091" height="708" alt="image" src="https://github.com/user-attachments/assets/b0c7eddb-f5ee-4878-ad01-93d70d25dc56" />
 
-==================================================
 KESIMPULAN
 ==================================================
 
