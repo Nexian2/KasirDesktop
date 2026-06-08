@@ -88,7 +88,7 @@ public class Transaksi {
         NumberFormat rupiah = NumberFormat.getCurrencyInstance(new Locale("id", "ID"));
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
         StringBuilder struk = new StringBuilder();
-        struk.append("TOKO MODERN\n");
+        struk.append("FORM TOKO\n");
         struk.append("Struk Pembayaran\n");
         struk.append("Tanggal   : ").append(LocalDateTime.now().format(formatter)).append("\n");
         struk.append("Pelanggan : ").append(namaPelanggan).append("\n");
