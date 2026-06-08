@@ -48,7 +48,7 @@ public class KasirFrame extends JFrame {
         root.setBorder(new EmptyBorder(12, 12, 12, 12));
         root.setBackground(new Color(238, 238, 238));
 
-        JLabel title = new JLabel("Aplikasi Kasir Toko Modern");
+            JLabel title = new JLabel("Aplikasi Kasir Toko");
         title.setFont(new Font("Segoe UI", Font.BOLD, 26));
         title.setForeground(new Color(28, 28, 28));
         root.add(title, BorderLayout.NORTH);
