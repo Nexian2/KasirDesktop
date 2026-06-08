@@ -16,7 +16,7 @@ Project ini dibuat dengan menerapkan konsep Object Oriented Programming (OOP), y
 Aplikasi ini dibuat dengan menggunakan Java dan dijalankan melalui NetBeans.
 
 ==================================================
-FITUR APLIKASI
+               FITUR APLIKASI
 ==================================================
 
 Fitur yang terdapat pada aplikasi ini berupa:
